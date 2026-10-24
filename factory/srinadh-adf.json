@@ -1,0 +1,15 @@
+{
+	"name": "srinadh-adf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1b5b2466-a360-45ad-b8f2-325bf76bb18c",
+		"tenantId": "5200b59b-23f5-40a1-b5a1-47ddfb680b72"
+	}
+}
